@@ -1,2 +1,2 @@
 # Score-to-grade-converter
-This program calculates an employee's gross pay based on their worked hours and hourly rate. It applies the standard rate for the first 40 hours and calculates an overtime bonus of 1.5 times the regular rate for any additional hours worked beyond 40. 
+This program evaluates a score entered by the user and converts it into a letter grade (A, B, C, D, or F), ensuring the score is valid before doing the calculation
